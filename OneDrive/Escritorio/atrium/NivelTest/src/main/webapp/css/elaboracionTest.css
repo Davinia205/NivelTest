@@ -1,0 +1,10 @@
+@charset "ISO-8859-1";
+#pregunta{
+  display: inline-block;
+  min-width: 100px;
+}
+
+#pregunta1{
+  background-color: red;
+  width: 100%;
+}
